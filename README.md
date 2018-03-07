@@ -8,7 +8,7 @@
 [![npm version](https://img.shields.io/npm/v/startbootstrap-modern-business.svg)](https://www.npmjs.com/package/startbootstrap-modern-business)
 [![Build Status](https://travis-ci.org/jackjunliu/shorelinesummit.svg?branch=master)](https://travis-ci.org/jackjunliu/shorelinesummit)
 [![dependencies Status](https://david-dm.org/jackjunliu/shorelinesummit/status.svg)](https://david-dm.org/jackjunliu/shorelinesummit)
-[![devDependencies Status](https://david-dm.org/jackjunliu/shorelinesummit/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business?type=dev)
+[![devDependencies Status](https://david-dm.org/jackjunliu/shorelinesummit/dev-status.svg)](https://david-dm.org/jackjunliu/shorelinesummit?type=dev)
 
 
 
