@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shoreline Summit Adventures</title>
+	  
+	<!-- Favicon -->
+	<link rel="icon" href="images/miscellaneous/logo - minimalist square white on black.jpg">
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+	  
+	<!-- Script for header and footer -->  
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script> 
+		$(function(){
+  			$("#header").load("header.html"); 
+  			$("#footer").load("footer.html"); 
+		});
+	</script>
+
+  </head>
+
+  <body>
+	 
+	<div id="header"></div>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3">404
+        <small>Page Not Found</small>
+      </h1>
+
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="index.html">Home</a>
+        </li>
+        <li class="breadcrumb-item active">404</li>
+      </ol>
+
+      <div class="jumbotron">
+        <h1 class="display-1">404</h1>
+        <p>The page you're looking for could not be found. Here are some helpful links to get you back on track:</p>
+        <ul>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="about.html">Adventures</a>
+			<ul>
+				<li>
+					<a href="channel islands.html">Channel Islands</a>
+					<ul>
+						<li><a href="#">Anacapa Island</a></li>
+						<li><a href="#">San Miguel Island</a></li>
+						<li><a href="#">Santa Barbara Island</a></li>
+						<li><a href="#">Santa Cruz Island</a></li>
+						<li><a href="#">Santa Rosa Island</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Camping</a></li>
+				<li><a href="#">Fishing</a></li>
+				<li><a href="#">Hiking</a></li>
+				<li><a href="#">Kayaking</a></li>
+				<li><a href="#">Motor Yacht Charters</a></li>
+				<li><a href="#">Painting Workshops</a></li>
+				<li><a href="#">Photography Workshops</a></li>
+				<li>
+					<a href="#">Sailing</a>
+					<ul>
+						<li><a href="#">Sailboat Charters</a></li>
+						<li><a href="#">Sailboat Instruction</a></li>
+						<li><a href="#">Sailboat Fleet</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Scuba Diving</a>
+					<ul>
+						<li><a href="#">Liveaboard Life</a></li>
+						<li><a href="#">What to bring</a></li>
+						<li><a href="#">Island Excursions</a></li>
+						<li><a href="#">Private Charters</a></li>
+						<li><a href="#">Dive Boat Fleet</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Snorkeling</a></li>
+				<li><a href="#">Surfing</a></li>
+				<li><a href="#">Sunset Cruises</a></li>
+				<li><a href="#">Whale Watching</a></li>
+			</ul>
+          </li>
+          <li>
+            <a href="services.html">Events</a>
+			  <ul>
+				  <li><a href="#">Private Events</a></li>
+				  <li><a href="#">Group Events</a></li>
+				  <li><a href="#">Corporate Events</a></li>
+				  <li><a href="#">Team Building Events</a></li>
+				  <li><a href="#">Event Charter Fleet</a></li>
+			  </ul>
+          </li>
+          <li>
+            <a href="contact.html">Gallery</a>
+			  <ul>
+				  <li><a href="#">Professional Photographers</a></li>
+				  <li><a href="#">Contributing Photographers</a></li>
+				  <li><a href="#">Professional Painters</a></li>
+				  <li><a href="#">Contributing Painters</a></li>
+			  </ul>
+          </li>
+		  <li>
+			 <a href="http://squarespace.shorelinesummitadventures.com/" target="_blank">Store</a>
+		  </li>
+		  <li>
+			  <a href="#">Contact</a>
+			  <ul>
+				  <li><a href="#">Ask a Question</a></li>
+				  <li><a href="#">About Us</a></li>
+				  <li><a href="#">FAQ</a></li>
+				  <li><a href="#">Who we Support</a></li>
+			  </ul>
+		  </li>
+        </ul>
+      </div>
+      <!-- /.jumbotron -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <div id="footer"></div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
